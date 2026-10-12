@@ -1,0 +1,13 @@
+openai
+pymupdf
+pydantic
+sentence-transformers
+scikit-learn
+numpy
+pandas
+openpyxl
+streamlit
+streamlit-extras
+fastapi
+uvicorn
+python-multipart

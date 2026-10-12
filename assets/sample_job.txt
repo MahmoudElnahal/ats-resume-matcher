@@ -1,0 +1,35 @@
+# sample_job.txt
+Job Title: Data Analyst
+
+Company: Future Insights LLC
+
+Location: Muscat, Oman
+
+About the Role:
+We are seeking a highly motivated and detail-oriented Data Analyst to join our analytics team. The ideal candidate will be responsible for gathering, analyzing, and visualizing data to help the organization make informed decisions.
+
+Responsibilities:
+- Collect and clean large datasets from multiple sources
+- Create dashboards and reports using Power BI and Excel
+- Collaborate with stakeholders to understand data needs
+- Perform data analysis to identify trends and insights
+- Prepare presentations and reports based on data findings
+
+Requirements:
+- Bachelor’s degree in Statistics, Mathematics, Computer Science, or related field
+- 1-3 years of experience in data analysis or business intelligence
+- Proficient in SQL, Excel, and Power BI
+- Experience with Python or R is a plus
+- Strong analytical and problem-solving skills
+- Excellent communication skills
+
+Preferred Skills:
+- Knowledge of ETL processes
+- Familiarity with data warehousing concepts
+- Experience with DAX and Power Query
+
+Language: English (Arabic is a plus)
+Job Type: Full-time
+Salary: Competitive based on experience
+
+Application Deadline: 31 August 2025
