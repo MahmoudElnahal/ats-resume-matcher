@@ -1,4 +1,4 @@
-# ATS — LLM Resume Parser & Job Matcher
+# ATS Resume Matcher — LLM Resume Parser & Job Ranking
 
 Upload a batch of PDF resumes and a job description; get back a ranked shortlist with a 0–100 fit score, matched skills, and a written reason for each accept/reject decision.
 
@@ -39,8 +39,8 @@ curl -X POST http://localhost:8000/match-cvs \
 ## Setup
 
 ```bash
-git clone https://github.com/MahmoudElnahal/ATS.git
-cd ATS
+git clone https://github.com/MahmoudElnahal/ats-resume-matcher.git
+cd ats-resume-matcher
 python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 export OPENAI_API_KEY=your_key                    # Windows: set OPENAI_API_KEY=your_key
